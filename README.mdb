@@ -1,0 +1,3 @@
+# Bedu Data 03
+
+Samples and code from session number 3.
